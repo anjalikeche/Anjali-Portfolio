@@ -17,61 +17,40 @@ export class ProfileService {
       title:
         'The Portfolio is a web-based application built using Angular , HTML, CSS, TypeScript',
       desc: '',
-      livedemo: 'https://Anjaligore147.github.io/Anjali-Portfolio/',
-      githurl: 'https://github.com/Anjaligore147/Anjali-Portfolio',
+      livedemo: 'https://anjalikeche.github.io/Anjali-Portfolio/',
+      githurl: 'https://github.com/anjalikeche/Anjali-Portfolio',
       imgUrl: 'assets/images/Portfolio.png',
       tech: 'Angular , HTML, CSS, JavaScript, TypeScript',
     },
     {
       id: 2,
       title:
-        'The E-Comm is a e-commerce website built using Angular , HTML, CSS, TypeScript',
-      desc: '',
-      livedemo: 'https://Anjaligore147.github.io/Angular-Ecomm/',
-      githurl: 'https://github.com/Anjaligore147/Angular-Ecomm',
-      imgUrl: 'assets/images/EcommProject.png',
-      tech: 'Angular , HTML, CSS, JavaScript, TypeScript, JSON server',
-    },
-    {
-      id: 3,
-      title:
-        'The EmployeeCentral is a web-based application built using .NET Core and Angular',
-      desc: '',
-      livedemo: 'https://Anjaligore147.github.io/EmployeeCentral-Angular-Web/',
-      githurl: 'https://github.com/Anjaligore147/EmployeeCentral-Angular-Web',
-      imgUrl: 'assets/images/EmployeeCentral.png',
-      tech: 'Angular 15 , ASP.NET Core, MSSQL',
-    },
-
-    {
-      id: 4,
-      title:
         'A simple and classic implementation of the Tic Tac Toe (X and O) game in HTML, CSS, JavaScript.',
       desc: '',
-      livedemo: 'https://Anjaligore147.github.io/Tic-Tac-Toe/',
-      githurl: 'https://github.com/Anjaligore147/Tic-Tac-Toe',
+      livedemo: 'https://anjalikeche.github.io/Tic-Tac-Toe/',
+      githurl: 'https://github.com/anjalikeche/Tic-Tac-Toe',
       imgUrl: 'assets/images/Tic-Tac-Toe-Github.png',
       tech: 'HTML, CSS, JavaScript                                                ',
     },
 
     {
-      id: 5,
+      id: 3,
       title:
         'A landing page inspired by the design of Amazon. Built with HTML, CSS.',
       desc: '',
-      livedemo: 'https://Anjaligore147.github.io/Amazon-Clone/',
-      githurl: 'https://github.com/Anjaligore147/Amazon-Clone',
+      livedemo: 'https://anjalikeche.github.io/Amazon-Clone/',
+      githurl: 'https://github.com/anjalikeche/Amazon-Clone',
       imgUrl: 'assets/images/Amazon-Github.png',
       tech: 'HTML, CSS',
     },
 
     {
-      id: 6,
+      id: 4,
       title:
         'The Rock Paper Scissors is a web-based application built using HTML, CSS, TypeScript',
       desc: '',
-      livedemo: 'https://Anjaligore147.github.io/Rock-Paper-Scissors/',
-      githurl: 'https://github.com/Anjaligore147/Rock-Paper-Scissors',
+      livedemo: 'https://anjalikeche.github.io/Rock-Paper-Scissors/',
+      githurl: 'https://github.com/anjalikeche/Rock-Paper-Scissors',
       imgUrl: 'assets/images/Rock-Paper-Scissors-Game.png',
       tech: 'HTML, CSS, JavaScript',
     }
@@ -85,7 +64,7 @@ export class ProfileService {
   about ='';
     // 'Lover of innovation and everything related to generate new knowledge. Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do.';
   resumeurl =
-    'https://drive.google.com/file/d/1pxSRh4V08rngb4rECTOC_TUk3_xdhsFE/view?usp=sharing';
+    'https://drive.google.com/file/d/1bIMHiB-cmaaS8eWAf2y1Q6y8lcBdTpFI/view?usp=sharing';
 
   skillsData: any = [
     {
