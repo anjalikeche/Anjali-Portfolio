@@ -56,7 +56,7 @@ export class ProfileService {
     }
   ];
 
-  about2 = `Angular Developer with over 2 years of experience in front-end and back-end development.
+  about2 = `Angular Developer with over 2 years of experience in front-end development.
   Experienced in collaborating with cross-functional teams to deliver high-quality code .
   Worked with Software Development Life Cycle(SDLC) and  agile methodologies .
   Expertise in SQL, HTML, CSS, JavaScript, TypeScript, Bootstrap, Angular, AWS S3, Cloudfront, Git and GitHub`;
@@ -64,7 +64,7 @@ export class ProfileService {
   about ='';
     // 'Lover of innovation and everything related to generate new knowledge. Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do.';
   resumeurl =
-    'https://drive.google.com/file/d/1bIMHiB-cmaaS8eWAf2y1Q6y8lcBdTpFI/view?usp=sharing';
+    'https://drive.google.com/file/d/16-0Dm2DjASbLpVzTHALHYcvQxl_3YxsR/view?usp=sharing';
 
   skillsData: any = [
     {
